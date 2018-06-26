@@ -1,0 +1,3 @@
+Write-Host "Installing Print Services Role"
+
+Install-WindowsFeature Print-Services # Oh no... it's so difficult to spin up a new print server...
